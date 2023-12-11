@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>PepiMazon Online</title>
         <body>
             <h1>PepiMazon Online</h1>
             <hr>
